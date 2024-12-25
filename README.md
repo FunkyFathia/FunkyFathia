@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FunkyFathia
-- 👀 I’m interested in software development and Data manipulation
+- 👋 Hi, I’m @FathiaSadiq
+- 👀 I’m interested in software development and Data manipulation and analysis
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: fathiasadiq2019@gmail.com
